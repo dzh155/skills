@@ -55,7 +55,7 @@ These example skills are all already available to paid plans in Claude.ai.
 To use any skill from this repository or upload custom skills, follow the instructions in [Using skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude#h_a4222fa77b).
 
 ## Claude API
-
+ddddd
 You can use Anthropic's pre-built skills, and upload custom skills, via the Claude API. See the [Skills API Quickstart](https://docs.claude.com/en/api/skills-guide#creating-a-skill) for more.
 
 # Creating a Basic Skill
